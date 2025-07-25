@@ -1,0 +1,10 @@
+# Grading system using IF and YES
+
+score = int(input("Enter your score: "))
+
+if 70 <= score <= 100:
+    print("Grade: A")
+    print("YES")
+elif 60 <= score <= 69:
+    print("Grade: B")
+    print("YES"
